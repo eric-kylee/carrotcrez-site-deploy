@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/courses/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/tags/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/</loc>
   </url><url>
-    <loc>https://example.org/courses/seorak/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/seorak/</loc>
   </url><url>
-    <loc>https://example.org/events/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/events/</loc>
   </url><url>
-    <loc>https://example.org/courses/jeju/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/jeju/</loc>
   </url><url>
-    <loc>https://example.org/courses/hongcheon/</loc>
+    <loc>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/hongcheon/</loc>
   </url>
 </urlset>

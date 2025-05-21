@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>자전거 대회 정보 on 당근이지 사이클 팀</title>
-    <link>https://example.org/events/</link>
+    <link>https://eric-kylee.github.io/carrotcrez-site-deploy/events/</link>
     <description>Recent content in 자전거 대회 정보 on 당근이지 사이클 팀</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>ko-kr</language>
-    <atom:link href="https://example.org/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eric-kylee.github.io/carrotcrez-site-deploy/events/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

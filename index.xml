@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>당근이지 CREZ on 당근이지 사이클 팀</title>
-    <link>https://example.org/</link>
+    <link>https://eric-kylee.github.io/carrotcrez-site-deploy/</link>
     <description>Recent content in 당근이지 CREZ on 당근이지 사이클 팀</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>ko-kr</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eric-kylee.github.io/carrotcrez-site-deploy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>설악 라이딩</title>
-      <link>https://example.org/courses/seorak/</link>
+      <link>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/seorak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/courses/seorak/</guid>
+      <guid>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/seorak/</guid>
       <description>&lt;p&gt;설악 코스입니다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>제주 환상 라이딩</title>
-      <link>https://example.org/courses/jeju/</link>
+      <link>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/jeju/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/courses/jeju/</guid>
+      <guid>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/jeju/</guid>
       <description>&lt;p&gt;제주도 해안을 따라 도는 환상적인 코스입니다.&lt;/p&gt;</description>
     </item>
     <item>
       <title>홍천 라이딩</title>
-      <link>https://example.org/courses/hongcheon/</link>
+      <link>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/hongcheon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/courses/hongcheon/</guid>
+      <guid>https://eric-kylee.github.io/carrotcrez-site-deploy/courses/hongcheon/</guid>
       <description>&lt;p&gt;홍천 코스입니다.&lt;/p&gt;</description>
     </item>
   </channel>
